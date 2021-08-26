@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @depaulaigor
+- 👀 I’m interestes in web developer, ux/ui e graphic design
+- 🌱 I’m currently learning JavaScript, C++, HTML5, CSS3 and UX/UI
